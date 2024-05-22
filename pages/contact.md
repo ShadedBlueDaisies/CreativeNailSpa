@@ -1,3 +1,6 @@
+---
+permalink: contact.html
+---
 # Contact Info
 
 #### Location
