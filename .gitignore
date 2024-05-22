@@ -1,3 +1,4 @@
+# Default files to ignore for Jekyll
 _site/
 .sass-cache/
 .jekyll-cache/
