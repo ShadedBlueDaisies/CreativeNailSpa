@@ -1,11 +1,7 @@
 {% assign sidebar = site.data.sidebars[page.sidebar].entries %}
 <ul id="leftsidebar" class="nav">
-  <li> </li>
-    {% for entry in sidebar %}
-    {% for folder in entry.folders %}
-    {% if folder.output contains "web" %}
   <li>
-    <a title="{{folder.title}}">{{folder.title}}</a>
+    <a title="{{folder.title}}">a point {{folder.title}}</a>
           <ul>
           {% for folderitem in folder.folderitems %}
           {% if folderitem.output contains "web" %}
