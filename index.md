@@ -1,5 +1,6 @@
 ---
 title: "Creative Nail Spa Landing Page"
+permalink: index.html
 ---
 
 # This is a header 1
