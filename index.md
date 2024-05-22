@@ -1,6 +1,7 @@
 ---
 title: "Creative Nail Spa Landing Page"
 permalink: index.html
+layout: default
 ---
 
 # This is a header 1
