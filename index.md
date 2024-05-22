@@ -4,7 +4,7 @@ permalink: index.html
 layout: default
 ---
 
-# This is a header 1
+# This is a header, it can be longer
 
 ## This is the home page.
 
